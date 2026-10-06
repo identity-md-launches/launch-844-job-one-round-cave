@@ -1,0 +1,22 @@
+{
+  "name": "Behind the Stone",
+  "image": "https://api.imd.fun/artifacts/9485f18ba305ef490da87318c3adf8a9f963e3e5d545cd1acc687beb3605afcb",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 3"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Proxy Route"
+    }
+  ]
+}
