@@ -1,0 +1,22 @@
+{
+  "name": "Four Trails, One Hearth",
+  "image": "https://api.imd.fun/artifacts/97a65c605d0ccdfe74c098ead82bf216faaee6958a85b12d51e63a59ba31342b",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Gathering"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "Read-only contract preflight"
+    }
+  ]
+}

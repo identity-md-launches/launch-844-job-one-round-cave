@@ -1,0 +1,18 @@
+[
+  {
+    "line": 1,
+    "goal": "Enable workers to assess Ethereum RPC endpoint reliability before relying on public chain reads."
+  },
+  {
+    "line": 2,
+    "goal": "Enable workers to preview unsigned Ethereum contract calls and understand their success or revert before sending anything."
+  },
+  {
+    "line": 3,
+    "goal": "Enable workers to recognize Ethereum proxy routing and assess contract upgradeability before trusting a deployed interface."
+  },
+  {
+    "line": 4,
+    "goal": "Enable workers to retrieve and assess publicly verified Ethereum contract source code for local review."
+  }
+]
