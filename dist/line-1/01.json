@@ -1,0 +1,22 @@
+{
+  "name": "Listening to the Signal",
+  "image": "https://api.imd.fun/artifacts/365f65c474eaefcde9f932b1ad6e7813964703e28773338f5e05ea3065e6ad45",
+  "attributes": [
+    {
+      "trait_type": "Cave",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Line 1"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    },
+    {
+      "trait_type": "Left behind",
+      "value": "RPC Health"
+    }
+  ]
+}
